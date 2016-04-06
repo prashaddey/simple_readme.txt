@@ -1,5 +1,5 @@
 # simple_readme.txt
 
-hello world!
+hello pluto!
 
 hello jupiter!
