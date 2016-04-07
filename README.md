@@ -1,7 +1,6 @@
 # simple_readme.txt
 
+ami onk kisu likkha felaise
 
-no hello to anyone.
-
-this is another line
+- shishir
 
